@@ -1,0 +1,5 @@
+# Directiories
+FreeRTOS
+FreeRTOS-LTS/*
+# Files
+.vscode
